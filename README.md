@@ -41,13 +41,14 @@ ContasIterador: Permite iterar e visualizar as contas cadastradas.
 📜 Exemplo de uso
 No menu interativo, é possível:
 
-[1] Depositar
-[2] Sacar
-[3] Extrato
-[4] Nova conta
-[5] Listar contas
-[6] Novo usuário
-[0] Sair
+[1] Depositar 
+[2] Sacar 
+[3] Extrato 
+[4] Nova conta 
+[5] Listar contas  
+[6] Novo usuário 
+[0] Sair 
+
 ⚙️ Tecnologias Utilizadas
 Python 3.x
 

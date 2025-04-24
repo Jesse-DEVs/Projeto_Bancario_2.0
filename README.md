@@ -1,4 +1,5 @@
 🏦 Sistema Bancário_ 2.0 em Python
+
 Este projeto é um sistema bancário simples, criado com foco no aprendizado de Programação Orientada a Objetos (POO) com Python. Ele simula operações básicas de um banco, como criação de contas, cadastro de clientes, depósitos, saques e geração de extratos.
 
 🚀 Funcionalidades
